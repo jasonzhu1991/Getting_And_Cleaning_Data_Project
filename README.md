@@ -4,7 +4,7 @@ This repository is for the course project in [Getting and Cleaning Data](https:/
 
 ### Before you run the script
 
-Please download this git repository from Github and unzip it.
+Please download this [git repository](https://github.com/jasonzhu1991/Getting_And_Cleaning_Data_Project.git) from Github and unzip it.
 
 In the directions below, the path to this repository on your file system will be represented by 
 	
