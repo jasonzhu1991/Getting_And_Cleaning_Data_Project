@@ -7,6 +7,7 @@ This repository is for the course project in [Getting and Cleaning Data](https:/
 Please download this git repository from Github and unzip it.
 
 In the directions below, the path to this repository on your file system will be represented by 
+	
 	[git_folder]
 
 ### How to run this R script
