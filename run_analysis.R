@@ -72,4 +72,4 @@ names(tidy)[1:2] <- c("activity", "subject")
 names(tidy)[3:81] <- as.vector(apply(as.matrix(names(tidy)[3:81]), MARGIN = 2, FUN = function(x) {paste0("mean-", x)}))
 
 # Save the tidy data set
-save(tidy, file = "../tidy.RData")
+write.table(tidy, file = "../tidy.txt")
