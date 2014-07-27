@@ -8,7 +8,7 @@ Please download this git repository from Github and unzip it.
 
 In the directions below, the path to this repository on your file system will be represented by 
 	
-	[git_folder]
+	> [git_folder]
 
 ### How to run this R script
 
@@ -16,8 +16,10 @@ In R or R studio, run the following command:
 
 	source("[git_folder]/run_analysis.R", chdir = T)
 
-### Output .RData file
+### Output tidy data set
 
 After running
 	run_analysis.R
-, The output tidy data set will be found at <code>[git_folder]/tidy.txt</code>.
+, The output tidy data set will be found at 
+
+	> [git_folder]/tidy.txt.
