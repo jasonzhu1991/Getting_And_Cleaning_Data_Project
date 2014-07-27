@@ -20,4 +20,4 @@ In R or R studio, run the following command:
 
 After running
 	run_analysis.R
-, The output tidy data set will be found at <code>[git_folder]/tidy.RData</code>.
+, The output tidy data set will be found at <code>[git_folder]/tidy.txt</code>.
