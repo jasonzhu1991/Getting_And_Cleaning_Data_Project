@@ -1,4 +1,4 @@
-### Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 This repository is for the course project in [Getting and Cleaning Data](https://class.coursera.org/getdata-005) course on Coursera
 
